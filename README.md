@@ -16,15 +16,14 @@ Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Da
 ## Technical Skills
 
 ### Programming Languages
-
 - **Python** - Advanced
 - **Java** - Intermediate
 - **HTML/CSS** - Proficient
 - **JavaScript** - Learning
 
 ### Technologies & Tools
-
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow (Learning)
 - **Web Development**: HTML5, CSS3, Bootstrap
 - **Databases**: SQL, MongoDB
 - **Version Control**: Git, GitHub
@@ -32,8 +31,8 @@ Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Da
 - **Cloud Platforms**: AWS (Learning)
 
 ### Core Competencies
-
 - **Data Analysis & Visualization**
+- **Machine Learning & AI**
 - **Software Development**
 - **Problem Solving**
 - **Statistical Analysis**
@@ -42,12 +41,12 @@ Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Da
 ## Key Achievements & Experience
 
 ### Academic Projects
-
+- **Machine Learning Projects**: Developed multiple ML models including Iris flower classification, email spam detection, and house price prediction
 - **CODSOFT Internship**: Completed multiple Python projects demonstrating programming concepts and real-world applications
 - **JPMC Advanced Software Engineering**: Participated in JPMorgan Chase & Co. Forage program focusing on Java development and software engineering principles
 
 ### Notable Projects
-
+- **Machine Learning Models**: Built classification and regression models with high accuracy
 - **Data Visualization Dashboard**: Created interactive dashboards for data analysis
 - **Python Applications**: Developed various Python applications showcasing different programming paradigms
 - **Software Engineering Projects**: Implemented enterprise-level solutions following best practices
@@ -71,16 +70,25 @@ Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Da
 
 ## Featured Repositories
 
-### CODSOFT
+### Machine-Learning-Projects
+**Advanced Machine Learning & Data Science**
 
+- Iris Flower Classification using K-NN, SVM, Logistic Regression, and Decision Trees
+- Email Spam Detection using NLP techniques and TF-IDF vectorization
+- House Price Prediction using Linear Regression, Random Forest, Gradient Boosting, and XGBoost
+- Comprehensive data preprocessing, feature engineering, and model evaluation
+- Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
+
+### CODSOFT
 **Python Development Projects**
 
-- Collection of Python projects showcasing various programming concepts
+- Calculator Application with arithmetic operations
+- Rock-Paper-Scissors Game with user interaction
+- Password Generator with customizable complexity
 - Demonstrates practical applications and coding best practices
 - Focus on clean code and efficient algorithms
 
 ### forage-midas
-
 **Enterprise Software Engineering**
 
 - JPMC Advanced Software Engineering Forage program repository
@@ -103,8 +111,6 @@ Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Da
 - Always learning and exploring new technologies
 - Fueled by coffee and curiosity
 
----
-
 ### "Code is poetry written in logic" - Let's create something amazing together!
 
-![Profile Views](https://camo.githubusercontent.com/1001c4284a959b6090aee0b2102bb5ef750667927ad805d702f27c96bc8ff5bc/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d616e696b616e74612d32332d616926636f6c6f723d627269676874677265656e267374796c653d666c61742d737175617265)
+![Profile Views](https://komarev.com/ghpvc/?username=Manikanta-23-ai&color=brightgreen&style=flat-square)
