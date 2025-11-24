@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Data Enthusiast** from **Nuzvid, Andhra Pradesh, India**. I am deeply interested in **coding, data analysis, and artificial intelligence**, constantly striving to learn and develop my skills in cutting-edge technologies.
+Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Data Enthusiast** from **Nuzvid, Andhra Pradesh, India**. I am deeply interested in **coding, data analysis, and artificial intelligence and Machine Learning**, constantly striving to learn and develop my skills in cutting-edge technologies.
 
-**My Mission**: To master **data visualization** and **software development** while using technology to solve real-world problems and create meaningful impact.
+**My Mission**: To master **data Scientist** and **software development** while using technology to solve real-world problems and create meaningful impact.
 
 ## Professional Summary
 
@@ -57,7 +57,7 @@ Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Da
 
 ## What I'm Currently Working On
 
-- Building **advanced data visualization projects**
+- Building **advanced data Structure and Algorithms and Advanced projects**
 - Learning **Machine Learning** and **AI technologies**
 - Looking to collaborate on **open-source projects**
 - Ask me about **Python, Data Analysis, and Web Development**
