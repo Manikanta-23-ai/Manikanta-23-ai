@@ -18,9 +18,11 @@ Hello! I'm **Manikanta Banavathu**, a passionate **Software Developer** and **Da
 ### Programming Languages
 - **Python** - Advanced
 - **Java** - Intermediate
-- **HTML/CSS** - Proficient
-- **JavaScript** - Learning
-
+- **SQL** - Proficient
+- **Data Structure and Algorithms** - Learning
+-**SQL** - Proficient
+-**Statistics and Probability** - Proficient and handling Problems 
+-**Deep Learning** - Proficient
 ### Technologies & Tools
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, TensorFlow (Learning)
