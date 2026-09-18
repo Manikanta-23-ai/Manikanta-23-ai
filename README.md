@@ -1,168 +1,555 @@
-# Hi there! I'm Manikanta Banavathu 
+# 👋 Hi, I'm **Manikanta Banavathu**
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Gen+AI+Engineer+%26+AI+Agents+Specialist;Building+Intelligent+Systems+with+LLMs;LangChain+%7C+CrewAI+%7C+AutoGPT+Expert;GPT+%7C+Claude+%7C+Llama+Developer)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=GenAI+Engineer+%7C+AI+Agents+Specialist;Building+Intelligent+Systems+with+LLMs;RAG+%7C+Agents+%7C+LangChain+%7C+LangGraph;Deep+Learning+%7C+AWS+%7C+AI+Automation;Turning+Ideas+into+Intelligent+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-manikanta-796907385/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikanta-23-ai)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Manikanta109876/)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Manikanta-23-AI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banavathumanikanta23@gmail.com)
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=180&section=header&text=AI%20%7C%20GENAI%20%7C%20CLOUD&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm a **Gen AI Engineer & AI Agents Specialist** from **Nuzvid, Andhra Pradesh, India**, passionate about building intelligent autonomous systems powered by cutting-edge Large Language Models.
+I'm **Manikanta Banavathu**, a developer focused on building **Generative AI, intelligent agents, LLM applications, Deep Learning systems, and cloud-powered AI solutions**.
 
-> *"Turning prompts into products — one intelligent agent at a time."*
+My approach is simple:
 
--  Currently building **AI Agents & LLM-powered systems** using LangChain, CrewAI, and AutoGPT
--  Working with **GPT-4, Claude, Llama, Mistral & Gemini**
--  Developing **RAG pipelines**, **multi-agent orchestration**, and **autonomous AI workflows**
--  Exploring **fine-tuning**, **vector databases**, and **MLOps**
--  Location: Nuzvid, Andhra Pradesh, India
+```text
+Learn
+  ↓
+Understand
+  ↓
+Build
+  ↓
+Experiment
+  ↓
+Deploy
+  ↓
+Optimize
+```
 
----
+I'm interested in turning AI concepts into **functional systems**, from individual LLM applications to RAG pipelines, autonomous agents, automation workflows, and cloud deployments.
 
-## Gen AI & LLM Tech Stack
+> **"Turning ideas into intelligent systems — one project at a time."**
 
-### Large Language Models
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+### 🔭 Current Focus
 
-### AI Agent Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
-![AutoGPT](https://img.shields.io/badge/AutoGPT-00A67E?style=flat-square&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-### Vector Databases & RAG
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00B9D1?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
-
-### Core Programming & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+* 🤖 Generative AI & LLM Applications
+* 🧠 Deep Learning
+* 🔗 RAG & Vector Search
+* 🕸️ AI Agents & Multi-Agent Systems
+* 🧩 LangChain & LangGraph
+* ⚙️ AI Automation & n8n
+* ☁️ AWS Cloud Engineering
+* 🐳 Docker & Deployment
+* 🏗️ Production AI Architecture
 
 ---
 
-## What I Build
+# 🧊 My AI Engineering Stack
+
+<div align="center">
+
+### 🤖 Generative AI & LLMs
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8" />
+
+<br><br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge\&logo=meta\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge\&logoColor=white)
+
+---
+
+### 🧠 AI Agents & Orchestration
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)
+![AutoGPT](https://img.shields.io/badge/AutoGPT-00A67E?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+---
+
+### 🔎 RAG & Vector Search
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B9D1?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&perline=8" />
+
+<br><br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+### ⚡ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,postgres,supabase&perline=8" />
+
+</div>
+
+---
+
+# 🧬 What I Build
 
 ```python
-ai_systems = {
-    "Autonomous Agents"   : ["Multi-step reasoning", "Tool use", "Memory"],
-    "RAG Pipelines"       : ["Pinecone", "ChromaDB", "Weaviate", "FAISS"],
-    "LLM Applications"    : ["Chatbots", "Copilots", "Decision Engines"],
-    "Multi-Agent Systems" : ["CrewAI", "LangGraph", "AutoGPT"],
-    "Fine-Tuned Models"   : ["Domain-specific", "LoRA", "PEFT"],
-    "AI Automation"       : ["N8N Workflows", "API Integrations"]
+manikanta_engineering = {
+
+    "Generative AI": [
+        "LLM Applications",
+        "Prompt Engineering",
+        "AI Assistants",
+        "AI Copilots"
+    ],
+
+    "AI Agents": [
+        "Tool-Using Agents",
+        "Autonomous Workflows",
+        "Multi-Agent Systems",
+        "Agent Memory"
+    ],
+
+    "RAG Systems": [
+        "Document Q&A",
+        "Semantic Search",
+        "Vector Retrieval",
+        "Knowledge Assistants"
+    ],
+
+    "Deep Learning": [
+        "Neural Networks",
+        "Computer Vision",
+        "NLP",
+        "Transformers"
+    ],
+
+    "Cloud AI": [
+        "AWS",
+        "AI Deployment",
+        "Cloud Architecture",
+        "Scalable Applications"
+    ],
+
+    "Automation": [
+        "n8n",
+        "API Integrations",
+        "AI Workflows",
+        "Automated Pipelines"
+    ]
 }
 ```
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### [Large Language Models Projects Using Generative AI](https://github.com/Manikanta-23-ai/LARGE-LANGUAGE-MODELS-PROJECTS-USING-GENERATIVE-AI)
-> RAG-based QA system using Naive & Retrieval Augmented Generation — retrieves relevant information from knowledge bases to answer user queries intelligently.
+<div align="center">
 
-`LLMs` `RAG` `LangChain` `Python` `VectorDB`
+### 🧠 Generative AI & LLM Projects
 
----
+<a href="https://github.com/Manikanta-23-ai/LARGE-LANGUAGE-MODELS-PROJECTS-USING-GENERATIVE-AI">
 
-### [Machine Learning Projects — Data Insights](https://github.com/Manikanta-23-ai/MACHINE-LEARNING-PROJECTS-IN-ANALASIS-DATA-INSIGHTS)
-> Iris flower classification, email spam detection, and house price prediction using SVM, Naive Bayes, and ensemble methods.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manikanta-23-ai&repo=LARGE-LANGUAGE-MODELS-PROJECTS-USING-GENERATIVE-AI&theme=tokyonight&hide_border=true" />
 
-`Python` `Scikit-learn` `Pandas` `Seaborn` `XGBoost`
+</a>
 
----
+</div>
 
-### [Data Structures & Algorithms](https://github.com/Manikanta-23-ai/DATA-STRUCTURES-AND-ALGORITHMS..-) 
-> Comprehensive Java solutions — Two Sum, Anagram Detection, Duplicate Detection, and more interview-ready problems.
+**Focus:** LLM applications, RAG, retrieval pipelines, and Generative AI experimentation.
 
-`Java` `DSA` `Problem Solving`
+`Python` `LLMs` `RAG` `LangChain` `Vector Search`
 
 ---
 
-### [Python Projects](https://github.com/Manikanta-23-ai/PYTHON-PROJECTS-)
-> Python fundamentals, automation, and data science — clean modular code demonstrating problem-solving and task automation.
+### 📊 Machine Learning Projects
 
-`Python` `Automation` `Data Science`
+[**MACHINE-LEARNING-PROJECTS-IN-ANALASIS-DATA-INSIGHTS**](https://github.com/Manikanta-23-ai/MACHINE-LEARNING-PROJECTS-IN-ANALASIS-DATA-INSIGHTS)
+
+Machine Learning projects covering classification, prediction, data analysis, and model experimentation.
+
+`Python` `Scikit-learn` `Pandas` `Machine Learning`
 
 ---
 
-### [Web Scraping Projects](https://github.com/Manikanta-23-ai/WEB-SCRAPING-PROJECTS-USING-PYTHON)
-> Scalable web scraping tool for dynamic and static websites — data parsing, cleaning, storage pipelines with pagination support.
+### 🧩 Data Structures & Algorithms
+
+[**DATA-STRUCTURES-AND-ALGORITHMS**](https://github.com/Manikanta-23-ai/DATA-STRUCTURES-AND-ALGORITHMS..-)
+
+Problem-solving repository focused on algorithmic thinking and interview-oriented programming.
+
+`Java` `DSA` `Algorithms` `Problem Solving`
+
+---
+
+### 🐍 Python Projects
+
+[**PYTHON-PROJECTS**](https://github.com/Manikanta-23-ai/PYTHON-PROJECTS-)
+
+Python programming, automation, data handling, and practical development projects.
+
+`Python` `Automation` `Programming`
+
+---
+
+### 🕷️ Web Scraping
+
+[**WEB-SCRAPING-PROJECTS-USING-PYTHON**](https://github.com/Manikanta-23-ai/WEB-SCRAPING-PROJECTS-USING-PYTHON)
+
+Practical web scraping and data extraction workflows using Python tools.
 
 `Python` `BeautifulSoup` `Selenium` `Requests`
 
 ---
 
-## GitHub Stats
+# 🏗️ AI Engineering Architecture
+
+```text
+                    ┌──────────────────────┐
+                    │       USER           │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    AI APPLICATION    │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌──────────┐     ┌───────────┐    ┌───────────┐
+        │   RAG    │     │   AGENTS  │    │ AUTOMATION│
+        └────┬─────┘     └─────┬─────┘    └─────┬─────┘
+             │                 │                │
+             ▼                 ▼                ▼
+        ┌──────────┐     ┌───────────┐    ┌───────────┐
+        │ VectorDB │     │   TOOLS   │    │    n8n    │
+        └────┬─────┘     └─────┬─────┘    └─────┬─────┘
+             │                 │                │
+             └─────────────────┼────────────────┘
+                               ▼
+                    ┌──────────────────────┐
+                    │         LLM          │
+                    │ GPT │ Claude │ Llama │
+                    │ Gemini │ Mistral     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      RESPONSE        │
+                    └──────────────────────┘
+```
+
+---
+
+# ☁️ Cloud Engineering
+
+I'm building my AWS knowledge from **fundamentals → infrastructure → DevOps → architecture → production systems**.
+
+```text
+AWS Fundamentals
+       ↓
+IAM
+       ↓
+VPC & Networking
+       ↓
+EC2
+       ↓
+S3
+       ↓
+CloudFront
+       ↓
+Load Balancing
+       ↓
+Auto Scaling
+       ↓
+RDS / DynamoDB
+       ↓
+Lambda
+       ↓
+API Gateway
+       ↓
+SQS / SNS / EventBridge
+       ↓
+Docker
+       ↓
+ECR / ECS
+       ↓
+CI/CD
+       ↓
+CloudFormation
+       ↓
+Security
+       ↓
+Monitoring
+       ↓
+Production Architecture
+```
+
+---
+
+# 🧠 Deep Learning Journey
+
+```text
+Python
+  ↓
+NumPy
+  ↓
+Mathematics
+  ↓
+Machine Learning
+  ↓
+Neural Networks
+  ↓
+Backpropagation
+  ↓
+Optimization
+  ↓
+PyTorch
+  ↓
+CNN
+  ↓
+NLP
+  ↓
+RNN / LSTM
+  ↓
+Attention
+  ↓
+Transformers
+  ↓
+Generative AI
+  ↓
+LLMs
+  ↓
+RAG
+  ↓
+Agents
+  ↓
+Fine-Tuning
+  ↓
+Production AI
+```
+
+---
+
+# 🧪 Engineering Workflow
+
+I approach projects using an engineering lifecycle:
+
+```text
+💡 Idea
+   ↓
+📋 Requirements
+   ↓
+🏗️ Architecture
+   ↓
+🧠 Model / AI Logic
+   ↓
+⚙️ Implementation
+   ↓
+🧪 Testing
+   ↓
+🔐 Security
+   ↓
+📊 Monitoring
+   ↓
+🚀 Deployment
+   ↓
+📈 Optimization
+```
+
+---
+
+# 📚 Current Learning
 
 <div align="center">
 
-![Manikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikanta-23-ai&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-23-ai&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manikanta-23-ai&theme=tokyonight&hide_border=true)
+| Area             | Focus                             |
+| ---------------- | --------------------------------- |
+| 🧠 Deep Learning | Neural Networks → Transformers    |
+| 🤖 Generative AI | LLM Applications                  |
+| 🔗 Agentic AI    | LangGraph / Multi-Agent Systems   |
+| 🔎 RAG           | Retrieval & Vector Search         |
+| ☁️ AWS           | Cloud Engineering & AI Deployment |
+| 🐳 DevOps        | Docker & CI/CD                    |
+| ⚙️ Automation    | n8n & API Workflows               |
+| 🎯 MLOps         | Deployment & Monitoring           |
 
 </div>
 
 ---
 
-## Achievements & Experience
+# 📈 GitHub Analytics
 
-| Program | Role | Skills |
-|---------|------|--------|
-| **CODSOFT Internship** | Python Developer | Python, Automation, OOP |
-| **JPMC Forage Program** | Software Engineering | Java, Enterprise Architecture |
-| **Self-Driven Projects** | Gen AI Engineer | LLMs, Agents, RAG Pipelines |
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manikanta-23-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta-23-ai&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Manikanta-23-ai&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## Currently Learning
+# 🐍 Contribution Activity
 
--  **Advanced LangGraph** — stateful multi-agent workflows
--  **Fine-tuning LLMs** — LoRA & PEFT techniques
--  **AWS for AI** — deploying LLM-powered apps at scale
--  **AI Safety & Alignment** — responsible AI development
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Manikanta-23-ai/Manikanta-23-ai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
-## Let's Connect & Collaborate
+# 🧊 3D Contribution Graph
 
-I'm open to collaborating on **Gen AI projects, AI Agents, LLM applications, and open-source AI tools**.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-manikanta-796907385/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banavathumanikanta23@gmail.com)
+<img src="https://raw.githubusercontent.com/Manikanta-23-ai/Manikanta-23-ai/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+# 🏆 Achievements & Experience
+
+| Program                 | Role                 | Focus                       |
+| ----------------------- | -------------------- | --------------------------- |
+| 🏢 CODSOFT              | Python Developer     | Python · Automation · OOP   |
+| 💼 JPMC Forage          | Software Engineering | Java · Software Engineering |
+| 🚀 Self-Driven Projects | AI / ML Development  | LLMs · RAG · Agents · ML    |
+
+---
+
+# ⚡ 2026 Focus
+
+```text
+                    2026
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+   🧠 Deep       🤖 GenAI       ☁️ AWS
+   Learning      & Agents       Cloud
+        │            │            │
+        └────────────┼────────────┘
+                     ▼
+              🏗️ AI Engineering
+                     │
+                     ▼
+              🚀 Production AI
+```
+
+### My current direction:
+
+**Deep Learning → Generative AI → Agentic AI → AWS → Production AI**
+
+---
+
+# 💼 What I'm Interested In
+
+```text
+🤖 Generative AI
+🧠 Deep Learning
+🔗 RAG Systems
+🕸️ AI Agents
+☁️ AWS Cloud
+⚙️ AI Automation
+🐳 DevOps
+🏗️ AI Architecture
+🔬 AI Research & Experimentation
+```
+
+---
+
+# 📊 My Engineering Principles
+
+### 01 — Build First
+
+Don't only consume tutorials.
+
+**Build.**
+
+### 02 — Understand the Fundamentals
+
+Frameworks change.
+
+Fundamentals remain.
+
+### 03 — Experiment
+
+Test ideas, measure results, and learn from failures.
+
+### 04 — Automate
+
+If a repetitive process can be automated, build the automation.
+
+### 05 — Deploy
+
+A project becomes significantly more valuable when it works outside the notebook.
+
+### 06 — Document
+
+Good engineering should be understandable and reproducible.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mani-manikanta-796907385/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:banavathumanikanta23@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Manikanta109876/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.codewars.com/users/Manikanta-23-AI">
+<img src="https://img.shields.io/badge/Codewars-Profile-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Code is poetry written in logic — let's build something intelligent together!"*
+### 🚀 Learn. Build. Deploy. Repeat.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manikanta-23-ai&color=brightgreen&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manikanta-23-ai\&style=for-the-badge\&color=6C63FF)
+
+**Thanks for visiting my profile! ⭐**
 
 </div>
